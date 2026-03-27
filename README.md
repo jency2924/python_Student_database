@@ -131,10 +131,26 @@ python main.py
 
 View outputs:
 
-Data tables
+[Data tables]
+
 1.bar chart
 
 <img width="651" height="522" alt="image" src="https://github.com/user-attachments/assets/06934fc3-da9a-4962-b0de-df2d9dafc45a" />
 
+2.pie chart
+
+<img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/8a25a5ec-226a-43f4-86c0-6ee84804a1b9" />
+
+3.Histogram 
+
+<img width="651" height="529" alt="image" src="https://github.com/user-attachments/assets/90969d93-1369-49b1-9b38-c6fe2bf38913" />
+
+4.Scatter plot(attendance Vs Performace)
+
+<img width="649" height="528" alt="image" src="https://github.com/user-attachments/assets/81e6df90-54c9-4abf-a4fb-808d875fdf26" />
+
+5.Scatter plot(internal mark Vs total marks)
+
+<img width="664" height="537" alt="image" src="https://github.com/user-attachments/assets/6ec0f70f-1472-46d6-aaf5-d11f2f951beb" />
 
 Graphs and visualizations
