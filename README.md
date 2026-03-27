@@ -134,7 +134,7 @@ View outputs:
 Data tables
 1.bar chart
 
-      <img width="651" height="522" alt="image" src="https://github.com/user-attachments/assets/06934fc3-da9a-4962-b0de-df2d9dafc45a" />
+<img width="651" height="522" alt="image" src="https://github.com/user-attachments/assets/06934fc3-da9a-4962-b0de-df2d9dafc45a" />
 
 
 Graphs and visualizations
