@@ -109,25 +109,13 @@ Pie Charts
 Histograms
 Scatter Plots
 
-📈 Key Insights (Example)
+📈 Key Insights 
 
 Students with higher attendance tend to score better
 Internal marks strongly influence total performance
 Certain departments may perform better overall
 Performance may vary across years and gender
 
-🚀 How to Run the Project
-
-Install required libraries:
-Bash
-
-pip install pandas numpy matplotlib seaborn faker
-
-Run the Python script:
-
-Bash
-
-python main.py
 
 View outputs:
 
